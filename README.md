@@ -1,4 +1,4 @@
-## Hi there 👋
+## Привет это русский пользователь гитхаб в данное время я изучил C# но  пока очень мало и использую GPT 5.4
 
 <!--
 **zxcnoheme/zxcnoheme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
