@@ -1,16 +1,19 @@
-## Привет это русский пользователь гитхаб в данное время я изучил C# но  пока очень мало и использую GPT 5.4
+# Привет! Я zxcnoheme 👋
 
-<!--
-**zxcnoheme/zxcnoheme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📌 Обо мне
+- **Возраст:** 14 лет
+- **Локация:** Афганистан 🇦🇫
+- **Язык:** Русский
 
-Here are some ideas to get you started:
+## 💻 Навыки и интересы
+- 💻 Языки: **C#**, **Java**
+- ⚒️ Разрабатываю: **Плагины для Minecraft**
+- 🇨🇳 Обожаю: **Китайский ИИ** ❤️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Цели
+- Углубленно изучить C#
+- Развивать навыки программирования
+- Создавать интересные проекты
+
+---
+*README создан автоматически на основе предоставленной информации*
