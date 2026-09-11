@@ -1,6 +1,6 @@
 
 
-![Мое фото](avatar3.png)
+![Мое фото](avatar4.png)
 
 <br clear="both">
 
